@@ -35,6 +35,7 @@ header.masthead>.overlay {
 }
 
 .devicon {
-  font-size: 10rem;
+  font-size: 8rem;
   float: left;
+  margin: 5px;
 }
