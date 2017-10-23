@@ -40,3 +40,6 @@ header.masthead>.overlay {
   clear: both;
   margin: 10px 5px;
 }
+.skills {
+  background-color: lighten(#000000, 75%);
+}
