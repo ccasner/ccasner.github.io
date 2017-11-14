@@ -45,8 +45,10 @@ header.masthead>.overlay {
 }
 .resume {
   text-align: center;
-  width: 70%;
+  width: 100%;
   background-color: red;
+  height: 500px;
+  position: absolute;
 }
 .contact {
   background-color: yellow;
