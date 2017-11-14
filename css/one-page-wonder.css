@@ -43,3 +43,11 @@ header.masthead>.overlay {
 .skills {
   background-color: lighten(#000000, 75%);
 }
+.resume {
+  text-align: center;
+  width: 50%;
+  background-color: red;
+}
+.contact {
+  background-color: yellow;
+}
