@@ -42,14 +42,15 @@ li {
   clear: both;
   margin: 10px 5px;
 }
-.skills {
-  background-color: lighten(#000000, 75%);
+#skills {
+  background-color: #bc6475;
+  padding: 200px;
 }
 #resume {
   text-align: center;
   width: 100%;
-  background-color: #bc6475;
-  height: 1100px;
+  /*background-color: #bc6475;*/
+  height: 1200px;
   position: absolute;
 }
 #contact {
