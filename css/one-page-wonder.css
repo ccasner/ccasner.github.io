@@ -60,6 +60,7 @@ li {
   width: 30%;
   clear: both;
   position: absolute;
+  padding-top: 1200px;
 }
 #about {
   background-color: #bc6475;
