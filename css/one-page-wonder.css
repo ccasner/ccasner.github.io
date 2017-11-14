@@ -48,6 +48,7 @@ li {
 }
 #resume {
   text-align: center;
+  color: white;
   width: 100%;
   background-color: #525659;
   height: 1200px;
@@ -57,6 +58,8 @@ li {
   background-color: lighten(#000000, 75%);
   margin: auto 0;
   width: 30%;
+  clear: both;
+  position: absolute;
 }
 #about {
   background-color: #bc6475;
@@ -67,6 +70,4 @@ li {
 }
 .navbar {
   background-color: rgba(211,211,211, 0.5);
-  clear: both;
-  position: absolute;
 }
