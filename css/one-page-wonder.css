@@ -48,8 +48,8 @@ li {
 #resume {
   text-align: center;
   width: 100%;
-  background-color: red;
-  height: 1000px;
+  background-color: #bc6475;
+  height: 1300px;
   position: absolute;
 }
 #contact {
@@ -58,5 +58,10 @@ li {
   width: 30%;
 }
 .resume-link {
+  clear: both;
   margin: auto 0;
+  position: absolute;
+}
+.navbar {
+  background-color: #bc6475;
 }
