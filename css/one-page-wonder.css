@@ -15,7 +15,7 @@ body {
 }
 
 header.masthead {
-  background: 'img/pier.jpg' no-repeat center center scroll;
+  background: url('https://user-images.githubusercontent.com/29655367/32798412-994855e2-c942-11e7-8b25-e2e977ceb89b.jpg') no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
