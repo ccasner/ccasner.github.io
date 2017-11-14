@@ -43,7 +43,7 @@ li {
   margin: 10px 5px;
 }
 #skills {
-  background-color: #bc6475;
+  /*background-color: #bc6475;*/
   padding: 100px;
 }
 #resume {
@@ -67,4 +67,6 @@ li {
 }
 .navbar {
   background-color: rgba(211,211,211, 0.5);
+  clear: both;
+  position: absolute;
 }
