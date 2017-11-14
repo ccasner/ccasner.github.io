@@ -33,7 +33,9 @@ header.masthead>.overlay {
     padding: 10rem 0;
   }
 }
-
+li {
+  list-style-position: inside;
+}
 .devicon {
   font-size: 6rem;
   float: left;
