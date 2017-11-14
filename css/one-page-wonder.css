@@ -53,8 +53,10 @@ li {
   position: absolute;
 }
 .contact {
-  /*background-color: yellow;*/
-  float: right;
-  margin: 200px 100px 0 0;
+  background-color: lighten(#000000, 75%);
+  margin: auto 0;
   width: 30%;
+}
+.resume-link {
+  margin: auto 0;
 }
