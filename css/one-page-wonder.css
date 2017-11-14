@@ -49,13 +49,16 @@ li {
   text-align: center;
   width: 100%;
   background-color: #bc6475;
-  height: 1300px;
+  height: 1100px;
   position: absolute;
 }
 #contact {
   background-color: lighten(#000000, 75%);
   margin: auto 0;
   width: 30%;
+}
+#about {
+  background-color: #bc6475;
 }
 .resume-link {
   clear: both;
