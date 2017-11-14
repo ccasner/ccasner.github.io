@@ -65,6 +65,5 @@ li {
   margin: auto 0;
 }
 .navbar {
-  background-color: #D3D3D3;
-  background-color: transparent;
+  background-color: rgba(211,211,211, 0.5);
 }
