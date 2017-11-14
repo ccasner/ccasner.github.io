@@ -45,14 +45,14 @@ li {
 .skills {
   background-color: lighten(#000000, 75%);
 }
-.resume {
+#resume {
   text-align: center;
   width: 100%;
   /*background-color: lighten(#000000, 75%);*/
   height: 1000px;
   position: absolute;
 }
-.contact {
+#contact {
   background-color: lighten(#000000, 75%);
   margin: auto 0;
   width: 30%;
