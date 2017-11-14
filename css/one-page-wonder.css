@@ -44,12 +44,12 @@ li {
 }
 #skills {
   background-color: #bc6475;
-  padding: 100px 0;
+  padding: 100px;
 }
 #resume {
   text-align: center;
   width: 100%;
-  /*background-color: #bc6475;*/
+  background-color: #525659;
   height: 1200px;
   position: absolute;
 }
