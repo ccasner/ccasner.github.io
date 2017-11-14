@@ -48,12 +48,12 @@ li {
 .resume {
   text-align: center;
   width: 100%;
-  background-color: lighten(#000000, 75%);
+  /*background-color: lighten(#000000, 75%);*/
   height: 1000px;
   position: absolute;
 }
 .contact {
-  background-color: yellow;
+  /*background-color: yellow;*/
   float: right;
   margin: 200px 100px 0 0;
   width: 30%;
