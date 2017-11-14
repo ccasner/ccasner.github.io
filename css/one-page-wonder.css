@@ -72,6 +72,9 @@ li {
 .navbar {
   background-color: rgba(211,211,211, 0.5);
 }
+.email {
+  float: left;
+}
 .phone {
   float: right;
 }
