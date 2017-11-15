@@ -52,7 +52,7 @@ li {
   width: 100%;
   background-color: #525659;
   height: 1200px;
-  position: absolute;
+  /*position: absolute;*/
 }
 #contact {
   background-color: lighten(#000000, 75%);
@@ -74,7 +74,11 @@ li {
 }
 .email {
   float: left;
+  color: white;
+  font-size: 20px;
 }
 .phone {
   float: right;
+  color: white;
+  font-size: 20px;
 }
