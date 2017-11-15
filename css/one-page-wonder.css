@@ -57,9 +57,9 @@ li {
 #contact {
   background-color: lighten(#000000, 75%);
   margin: auto 0;
-  width: 30%;
-  clear: both;
-  position: absolute;
+  width: 100%;
+  /*clear: both;
+  position: absolute;*/
   padding-top: 1200px;
 }
 #about {
