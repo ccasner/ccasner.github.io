@@ -73,13 +73,13 @@ li {
   background-color: rgba(211,211,211, 0.5);
 }
 .email {
-  padding-left: 50px;
+  padding-left: 100px;
   float: left;
   color: white;
   font-size: 20px;
 }
 .phone {
-  padding-right: 50px;
+  padding-right: 100px;
   float: right;
   color: white;
   font-size: 20px;
